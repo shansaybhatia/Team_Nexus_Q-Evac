@@ -1,3 +1,5 @@
+# Q-volution Hackathon 2026 – Girls in Quantum
+
 # Team_Nexus_Q-Evac
 # Q-Evac — Quantum Disaster Evacuation Optimization
 Quantum-powered disaster evacuation optimization system using QUBO modeling and neutral atom quantum computing.
